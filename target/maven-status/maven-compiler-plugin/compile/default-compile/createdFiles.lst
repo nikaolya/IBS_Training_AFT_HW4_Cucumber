@@ -1,0 +1,11 @@
+ru\company\framework\managers\DriverManager.class
+ru\company\framework\managers\PageManager.class
+ru\company\framework\utils\ConstProp.class
+ru\company\framework\stepDefinitions\StartPageSteps.class
+ru\company\framework\stepDefinitions\Hooks.class
+ru\company\framework\pages\BasePage.class
+ru\company\framework\pages\SecondaryHousingMortgagePage.class
+ru\company\framework\stepDefinitions\SecondaryHousingMortgageSteps.class
+ru\company\framework\stepDefinitions\BaseSteps.class
+ru\company\framework\managers\PropManager.class
+ru\company\framework\pages\StartPage.class

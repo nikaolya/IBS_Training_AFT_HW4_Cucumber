@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Введенное значение Процентная ставка неверно\nExpected: is \"11,3\"\n     but: was \"11,4\"",
+      "children" : [ {
+        "name" : "Проверка правильности расчета условий по ипотеке",
+        "uid" : "e5a4ceb46c81ad51",
+        "parentUid" : "8a7955116bf9ca535ffdf1ea33d50b60",
+        "status" : "failed",
+        "time" : {
+          "start" : 1667229931523,
+          "stop" : 1667229968715,
+          "duration" : 37192
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8a7955116bf9ca535ffdf1ea33d50b60"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
