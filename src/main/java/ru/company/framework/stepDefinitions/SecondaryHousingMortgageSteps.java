@@ -9,10 +9,10 @@ import ru.company.framework.pages.SecondaryHousingMortgagePage;
 
 import java.util.Map;
 
-import static org.hamcrest.MatcherAssert.*;
-import static org.hamcrest.CoreMatchers.*;
+import static org.hamcrest.CoreMatchers.is;
+import static org.hamcrest.MatcherAssert.assertThat;
 
-public class SecondaryHousingMortgageSteps extends BaseSteps{
+public class SecondaryHousingMortgageSteps extends BaseSteps {
 	SecondaryHousingMortgagePage mortgagePage = pageManager.getMortgagePage();
 
 	@И("^скроллит страницу (?:вниз|вверх) до раздела \"([^\"]*)\"$")

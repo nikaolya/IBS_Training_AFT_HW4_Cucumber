@@ -1,6 +1,5 @@
 package ru.company.framework.stepDefinitions;
 
-import io.qameta.allure.Attachment;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
