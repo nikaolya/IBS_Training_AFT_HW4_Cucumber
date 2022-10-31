@@ -1,4 +1,0 @@
-# Created at 2022-10-31T18:25:28.015
-Boot Manifest-JAR contains absolute paths in classpath 'D:\Documents\Projects\IntelliJIDEA\IBS_Training\IBS_Training_AFT_HW4_Cucumber\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-
